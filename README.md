@@ -1,4 +1,4 @@
-## Hi there, it's 'Gz 👋
+## Hi there, it's Gustavo Perez 👋
 
 - 🌱 Atualmente no 1º Semestre de ADS na SPTECH
 
