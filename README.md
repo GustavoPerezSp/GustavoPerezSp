@@ -1,6 +1,6 @@
 ## Hi there, it's Gustavo Perez 👋
 
-- 🌱 Atualmente no 1º Semestre de ADS na SPTECH
+- 🌱 Atualmente no 2º Semestre de ADS na SPTECH
 
 <!--
 
